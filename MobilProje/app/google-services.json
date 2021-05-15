@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82747629303",
+    "firebase_url": "https://mobilproje-82e69-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobilproje-82e69",
+    "storage_bucket": "mobilproje-82e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82747629303:android:f94603b641c65cf0f73df2",
+        "android_client_info": {
+          "package_name": "com.demo.mobilproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82747629303-489uumf9vl2to4are3ptskq30uj4chmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3jmtT1s4_e0l1mCvHJXw0V0CtcoxwrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82747629303-489uumf9vl2to4are3ptskq30uj4chmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

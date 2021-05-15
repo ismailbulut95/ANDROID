@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MobilProje">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MobilProje.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
